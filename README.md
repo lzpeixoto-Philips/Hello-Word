@@ -10,3 +10,5 @@ Eu trabalho na philips
 Esses sao o meus nomes do meio
 # Teste conflito ramo a
 teste teste
+# teste de conflito ramo b
+teste teste
